@@ -1,10 +1,25 @@
 # JavaLabSolutions
-Lab Book 1  (Flow control/Operators/Assignments): 8 Questions
 
-Lab Book 2  (Arrays): 4 Questions
+JEE FS Core Java 8:
 
-Lab Book 3  (Strings and Parsing): 7 Questions
+Lab Book 1  (Flow control/Operators/Assignments)
 
-Lab Book 4  (Inheritance and Polymorphism): 3 Questions
+Lab Book 2  (Arrays)
 
-Lab Book 5  (Exception Handling): 3 Questions
+Lab Book 3  (Strings and Parsing)
+
+Lab Book 4  (Inheritance and Polymorphism)
+
+Lab Book 5  (Exception Handling)
+
+Lab Book 6: (Collection Framework)
+
+Lab Book 7: (Layered Architecture)
+
+Lab Book 8: (Multithreading)
+
+Lab Book 9: (Lambda Expressions and Stream API)
+
+Lab Book 10: (File Handling)
+
+**************************************************************************************************************************************************************************
